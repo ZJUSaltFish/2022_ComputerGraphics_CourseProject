@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\external\glfw\examples\particles.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\external\glfw\deps\tinycthread.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\external\glfw\deps\getopt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\external\glfw\deps\glad_gl.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\external\glfw\deps\tinycthread.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\external\glfw\deps\getopt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\external\glfw\deps\glad\gl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\external\glfw\examples\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\external\glfw\examples\glfw.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{BEE52814-EAB7-30BE-9E64-C25AB9A81A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9F1F405B-5E63-3CC7-AF7F-4C7CED3AE50C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\base\application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\base\camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\base\glsl_program.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\base\object3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\base\skybox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\base\texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\finalProject\character.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\finalProject\geometry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\finalProject\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\finalProject\material.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\finalProject\physicalObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\finalProject\po_camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\finalProject\scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\finalProject\simple_obj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\finalProject\test_scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\finalProject\useImgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\base\application.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\base\bounding_box.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\base\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\base\frame_rate_indicator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\base\framebuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\base\frustum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\base\glsl_program.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\base\input.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\base\light.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\base\object3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\base\plane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\base\skybox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\base\texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\base\vertex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\finalProject\character.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\finalProject\geometry.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\finalProject\material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\finalProject\physicalObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\finalProject\po_camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\finalProject\scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\finalProject\screenshot.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\finalProject\simple_obj.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\finalProject\test_scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\projects\finalProject\useImgui.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\P1\Desktop\学习\课程\Computer Graphics\CG_FinalProject\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{BEE52814-EAB7-30BE-9E64-C25AB9A81A21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9F1F405B-5E63-3CC7-AF7F-4C7CED3AE50C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
